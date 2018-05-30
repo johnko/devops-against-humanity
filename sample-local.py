@@ -2,10 +2,10 @@
 import random,re
 
 white=[]
-for q in open('./cards-white.txt', 'rb'):
+for q in open('./card-white.txt', 'rb'):
     white.append(q)
 black=[]
-for r in open('./cards-black.txt', 'rb'):
+for r in open('./card-black.txt', 'rb'):
     black.append(r)
 
 blank=re.compile(r"( +)?(\b|[^_])_+(\b|[^_])( +)?")
