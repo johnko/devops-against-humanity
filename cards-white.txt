@@ -1,0 +1,605 @@
+(╯°□°）╯︵ ┻━┻
+# And right here, we'd like a miracle
+# FIXME: For now, just don't validate
+# we *LIE* about what happened and return a "success"
+# What is this used for?
+#define BEGIN  {
+$HOME/.gem
+/cgi-bin/php5
+/dev/null
+/dev/null as a service
+/etc/hosts
+/var/log symlinked to /dev/null
+0 day exploits
+0118 999 881 999 119 725...3
+0xDEADBEEF
+10,000 Nagios alerts per second
+12 factor application
+127.0.0.1
+3 hour standups
+4-day-old coffee, reheated
+42
+4chan
+5000 free AOL CDs
+75-tier architecture
+:(){ :|:&};:
+:(){:|:&};:
+@echo off
+A "MRW" animated gif
+A $60 QNAP and some positive thinking
+A 1996 Java applet
+A 22" CRT monitor
+A 3.5" floppy disk
+A 500-megabyte UDP packet
+A 50k line Bash script that's achieved self awareness
+A 56k modem
+A bastion host
+A broken Nerf gun
+A Certified SCRUM Master
+A Cisco router with a flaky chip
+A cluster of applications on a cluster of servers
+A coffee stained mousepad
+A cold cup of coffee
+A constructor for RandomThing
+A contractor that tells you it was a real learning experience
+A cron job that reboots the server every 5 minutes
+A custom kernel with Frontpage Extensions installed
+A decent package
+A desktop computer with a turbo button
+A dozen vendor t-shirts
+A faulty crossover cable
+A few instances
+A fingerprint scanner
+A firewall full of holes
+A flaky VPN connection
+A floppy disk from 1989
+A flux capacitator
+A full copy of the internet
+A German installation of Windows NT4
+A GitHub Outage
+A global write lock
+A hard drive degaussing machine
+A heavy metal fan
+A helpdesk ticket to "fix the cpu"
+A home-rolled systemd replacement
+A jailbroken iPad
+A JAR full of spaghetti
+A KVM with a broken M
+A larger database connection pool
+A laser pointer
+A literal cluster fuck
+A mouse connected serial -> ps/2 -> usb
+A multitool with a bottle opener
+A new printer
+A non-ironic BSOD
+A one button mouse
+A pimply faced youth with nothing to lose
+A pink sombrero and a fifth of tequila
+A Piñata full of error messages
+A portable heater
+A posting on Craigslist "internet engineers" jobs forum
+A potato
+A printed version of Google Earth
+A pseudorandom number generator
+A pull request with a winking smiley ;)
+A queue with no consumers
+A rainbow pack of 3.5" floppy disks
+A razorsharp punchdown tool
+A red stapler
+A routing loop
+A sad log with a mustache
+A salvaged motherboard with a parallel port
+A scanning electron microscope
+A self-aware PHP script
+A serial port mouse
+A series of tiny shellscripts
+A series of tubes
+A server rack full of crushed dreams
+A shared root password
+A shell script with root access
+A shell script written in OCaml
+A shoebox under my bed
+A simple 15 level Hiera hierarachy
+A squirrel with a taste for fiber
+A suspiciously sticky keyboard
+A sweaty band shirt
+A tech recruiter
+A tiny ounce of knowledge
+A torrent of Torrenters torrenting
+A towel
+A trunk full of Mountain Dew
+A turducken made entirely of bash scripts
+A USB laser sword from China
+A USB stick found in the parking lot
+A violation of the most basic engineering principles
+A virtual machine running a virtual machine until it brings on the Singularity
+A water buffalo
+A webcam pointed at the coffee maker
+Accidentally the entire data center
+Active Directory
+Agile
+Agony-Driven Development
+An angry badger with an electromagnet on its back
+An angry whale shitting containers
+An Arduino runnning NetBSD
+An army of chaos monkeys, all carrying flamethrowers
+An enormous rack
+An entirely commented out file
+An epic caffeine bender
+An Exchange email loop
+An IP Webcam with a default password
+An IRC bot written entirely in sed
+An online book seller
+An outage window
+An overclocked C64
+An RJ-45 crimping tool
+An uncontrollable deluge of emails
+An untested restore process
+Angelina Jolie in Hackers
+Angular js
+Animated GIF
+Ansible
+Apache 1.2 running as root
+Apache Zookeeper on a 286
+Apple fanboys
+Arguing over the internet
+ASAP
+Authentication and authorization
+Automate
+Banana Pi
+Bare metal
+bash
+Batman on acid
+Beating the server into submission with your bare hands
+Being acquired by Oracle
+Best Two out of Three Factor Auth
+Big ball of mud
+Bingo Balls
+Biometric foot scanner
+Bitcoin mining
+Blackjack & hookers
+Blue Screen Of Death
+BOFH
+Botnet of smartwatches
+Broadcom chipset
+Brogrammers
+Brute force
+Buffer overflow
+Bus error
+Business logic in PowerPoint slides
+Cache
+CAP Theorem
+Cassandra
+Catastrophic cancellation
+Catastrophic Failure as a Service
+Cats
+CEOs with root access
+CFLAGS
+ChatOps
+CHEATER
+Cheezburger
+Chrome Emoji Extension with built in keylogger
+Chuck Norris
+Circular imports
+Clippy
+Cloud 2.0
+Cloud-based business strategy
+COBOL
+Coffee shop WiFi
+Command line options
+Command-line magic
+Committing from the bar
+Complex systems usually operate in failure mode
+Conflict minerals
+Continuous deployment
+Continuous disintegration
+Continuous employment
+Continuous enjoyment
+Continuous incineration
+Continuous integration
+Copy-on-write
+Copypasta
+CouchDB
+Cowboy developer
+cowsay
+Cron jobs that edit cron jobs
+Crowdsourced Architecture
+CryptoLocker
+Culture
+curl 4chan | sudo sh
+curl | sh -c
+Darkness
+Darth Vader talking dirty
+dd
+DDoS attacks from your fridge
+De-linting source code
+Deadpool. On a unicorn
+Debugging Layer 8 problems
+Deduplication
+Degraded performance in some AWS availability zones
+Delightful
+Deploying on a Friday afternoon
+Desperately pinging Google
+Destroying your tools with your tools
+dev
+Developers
+Developers! Developers! Developers! Developers!
+DevOps
+DevOps Days
+DevOps Reactions
+Digital Ocean
+Distributed Computing
+DNS
+Docker
+Dogecoin
+done done
+Dungeons & Dragons
+Dust bunnies
+echo shell_exec("sudo ./smbkill ".escapeshellcmd($_GET['kill'])." 2>&1");
+Edward Snowden
+Elastic Load Balancers
+Email asking to verify my username and password
+Emergency disconnect with an axe
+Entering rm -rf /
+Enterprise Grade Bash scripts
+Erlang
+Erotic fan fiction of Captain Kirk
+Ethernet
+Eventual acceptance
+Eventual consistency
+Eventual persistence
+EXTERMINATE
+f00d
+Fail early, fail often
+Failing the Kobayashi Maru test
+Fat fingered
+FAT32
+Flying Pop-Tart rainbow cat badges
+Forcing push to master
+fork() on Windows
+Former employees who still have admin access to live production servers
+Friday afternoon deployment
+Fuck it, we'll do it live!
+Fucking campers
+Full support for IE6
+Full-stack developer
+Functional programming
+Functional Reactive
+GCHQ
+Gentoo
+GeoCouchDB
+Geometric distances
+Getting socially engineered by a 12 year old
+Git
+Git Blame
+git merge --force
+git reset --hard origin/master
+git submodules
+git undo
+GitHub contribution graph
+Github selfies
+GitHub stars
+Global warming
+GNU/Linux
+Golang
+grep
+Growth hacking
+Grumpy Cat
+Hackathons
+Hacker News
+HAL
+Half open TCP connections
+Half-Life 3
+Halt and Catch Fire
+Hand-crafted artisan x86 assembly code
+Hash collision
+Haskell
+Hate driven development
+Have you tried turning it off and on again
+Haystack
+Head of Marketing
+Heartbleed
+High Availability
+HipChat
+Hitting refresh just one more time
+HTML9 Responsive Boilerstrap JS
+hunter2
+Hypervisors running hypervisors running hypervisors
+I don't know, I wasn't paying attention but I didn't change anything
+I heard about it on hacker news
+I'll create a GUI interface using VisualBasic, see if I can track an IP address
+I'm holding that cable RIGHT NOW!
+IE 7 Support
+IE6
+Immutable artifacts
+in b4 FIRST
+Insecure ejection
+IPv6
+ISO 8601 (representation of dates and times)
+J in HR who needs three 4K monitors
+java
+Jenkins
+jsLinux
+Kanban
+Kernel panic
+KHAAAAAN!
+kill -9
+kill -9 -1
+killall -9
+Kim Kardashian's iCloud account
+Kubernetes
+Leaky abstractions
+Leap second bug
+Less Than Zero Day
+LevelDB
+LinkedIn
+Linus Torvalds
+Little Bobby Tables
+Log Shipping
+LogFiles\W3SVC1
+lolcats
+Losing the root password
+Lotus123
+Lunar
+Magic Smoke
+Magic Spray
+malloc
+Management Subscription
+Manually fixing 10/100/1000 'auto' negotiation
+Map-Reduce
+Maven downloading the entire internet
+Merge Conflicts
+Meritocracy
+Microsoft Access over a WAN
+Microsoft Azure
+Mist
+Mixed endianness
+MOAR USB STICKS
+MongoDB
+More buzzwords than you can shake a scrum at
+MS-DOS
+Mutation of immutable data
+My dongle
+My password
+My pet's water bowl
+My rooted phone
+My Wookiee
+Nagios
+Naming servers after error codes
+Needle
+Nerdgasm
+netcat
+Netscape Navigator 3.2 support
+Networking
+Node.js
+NoOps
+NoQA Movement
+NoSQL
+npm
+NSA FOIA request
+NSFW content
+ntpdate
+NullPointerException: null
+O'Reilly
+OAuth
+Office Space
+One giant SPOF
+OpenLDAP
+OpenSSL
+Operations hipster
+Ops doing dev = technical debt
+Optimistic transactions
+Our Release Engineer
+Out-of-band access
+Packet loss
+PagerDuty configured with a random number generator
+PAM Happy Hour
+Parsing HTML with regex
+Password cracking
+Password manager's password
+Patent
+PC LOAD LETTER
+PC Master Race
+PEBKAC
+Penetration testing
+Percussive maintenance
+Perl 6
+phpMyAdmin
+Picking the best color to paint your bike shed
+Ping Pong
+Pinging 127.0.0.1
+Pinging the broadcast address
+pip
+Piping /var/log/messages to Twitter
+Piping random scripts from the internet into bash
+Playing with my boot sector
+Playing with your joystick
+Poopface Emoji
+Post-commit hook
+Post-mortems
+Pre caffeine typos
+Pre-commit hook
+Private key
+Private keys in /var/www
+Privilege escalation
+Product Managers
+Production deployments that depend on GitHub
+Profanity in the git log
+Program Management
+Proxy
+Public key
+Puppet
+PyPy
+Python
+Python datetime module
+RAID 0
+RAID 3 SSD cluster
+Random ASCII
+Random cat GIFs
+Raspberry Pi
+Re-implementing TCP over TCP
+Re-implementing TCP over UDP
+Re-writing deployment scripts at 2 AM
+Read-only Fridays
+Rebasing the entire fucking repo
+Rebooting All The Things
+Rebuilding a RAID array
+RecruiterFail
+Reddit
+Regex
+ReiserFS
+Reproducible builds
+Rewriting bash scripts as CMD batch jobs
+RFC 1149 (IP Datagrams via Avian Carriers)
+RFC 1178 (Choosing a Name for Your Computer)
+RFC 2324 (Hyper Text Coffee Pot Control Protocol)
+RHEL4
+Right clicking EVERYTHING
+Righteous Anger
+rm -rf /
+rm -rf /*.*
+Rockstar
+Rotating the backup tapes
+Router with default password
+rsync
+RTFM!
+Ruby
+Running Openstack in Production
+Running out of IPv4 addresses
+Russian hackers
+Sadness as a Service
+Sailor Moon cosplay
+Sandals and socks
+Scala
+Scale Sets
+Scanning a little too much with nmap
+Schrödinger's cat
+Script kiddies
+Scrum Master
+Secret sauce
+Self-inflicted DDoS
+Sentinel System Driver
+Server cages
+Server logs
+Servers that follow daylight savings time
+Short Stroking
+SIGHUP
+SIGKILL
+Significant whitespace
+Silos
+Simply pressing CAPSLOCK
+Single stepping through the kernel
+Smart quotes
+Snail scale
+Snowflake server
+Solar
+Solar flares
+Somebody calculating pi on the Exchange server
+Someone being wrong on the internet
+Sparkly Devops Princess
+Spot Instances
+Sprint Planning
+SQLite
+ssh in a for loop
+Stack trace generator
+StackOverflow is offline?!
+Standing around outside on the streets of SOMA with an overheating laptop drunk while fixing your god damn Saturday night deployment
+Stephen Hawking
+Steve Balmer wielding a battleaxe
+Stickers
+Stuxnet
+sudo
+Synergy
+Syntactic sugar coma
+Syntax error
+Sysadmins
+Systemd
+Tails OS
+Taylor Swift's YouTube channel
+Tcl
+Tech Debt Day
+Temporary hotfixes
+Terraform
+That moment when you realize CTRL-Z cannot save you
+That XKCD comic about sysadmins
+The Ballmer Peak
+The BOFH
+The CEO
+The cloud
+The crazy intern pulling all plugs in the server room and running away laughing
+The damn CDN
+The dark web
+The fucking JVM
+The gentle sound of weeping drifting from the server room
+THE INTERNET
+The library that imports all other libraries
+The much neglected IPv5
+The mysql client
+The newbie cooking drugs in the server room
+The next Y2K
+The NSA
+The Sales & Marketing department
+The server is down
+The tech lead's shitty pet project
+The Unix epoch
+The world's only fully-functional ROFLcopter
+Theo de Raadt yelling at newbs
+Those ksh scripts
+Thought leadership
+Too Big Data
+Too big to fail
+Too many authorization failures
+top
+Tor
+traceroute
+Trello board
+Tribal knowledge
+Trolls
+Trying to install MongoDB on AIX 3
+Twitter
+Two Factor Auth
+Two single quotes
+Unicode errors
+Unix philosophy
+Unknown source in your stack trace
+Unlimited data plan
+Unpatched Windows XP box
+Unplugging a server and waiting to see who complains
+Upgrading to ARPANET
+Using Brainfuck in production
+UTF-7
+UTF-9
+Vagrant
+Vapor
+Vault
+Vegan friendly init scripts
+Vengeful Trekkies
+Viewing web filter block logs
+vim
+VisualBasic DLLs
+Waiting for console.aws.amazon.com
+wat
+Wearing protection during peer programing
+Web Scale
+Webhook
+Windows ME
+Windows XP
+winsock
+Women in tech
+WONTFIX
+Works for me
+Works on my machine!
+Write-only code
+Ycombinator
+Year 2038
+Yet another package manager
+YoloDB
+Your account
+Your code featured on The Daily WTF
+Your mom's password
+Your princess is in another castle
+Your private browsing history
+ZeroMQ over SSH
+ZeroVM
+Zombie processes
+zsh
