@@ -370,6 +370,7 @@ Needle
 Nerdgasm
 netcat
 Netscape Navigator 3.2 support
+Network connectivity
 Networking
 Node.js
 NoOps
