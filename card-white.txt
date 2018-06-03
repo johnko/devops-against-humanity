@@ -8,6 +8,7 @@ $HOME/.gem
 /cgi-bin/php5
 /dev/null
 /dev/null as a service
+/dev/random
 /etc/hosts
 /var/log symlinked to /dev/null
 0 day exploits
@@ -15,7 +16,9 @@ $HOME/.gem
 0xDEADBEEF
 10,000 Nagios alerts per second
 12 factor application
+12 hamsters
 127.0.0.1
+1337
 3 hour standups
 4-day-old coffee, reheated
 42
@@ -44,6 +47,7 @@ A constructor for RandomThing
 A contractor that tells you it was a real learning experience
 A cron job that reboots the server every 5 minutes
 A custom kernel with Frontpage Extensions installed
+A datacenter migration
 A decent package
 A desktop computer with a turbo button
 A dozen vendor t-shirts
@@ -58,6 +62,7 @@ A full copy of the internet
 A German installation of Windows NT4
 A GitHub Outage
 A global write lock
+A good scotch collection at your desk.
 A hard drive degaussing machine
 A heavy metal fan
 A helpdesk ticket to "fix the cpu"
@@ -121,6 +126,7 @@ Agile
 Agony-Driven Development
 An angry badger with an electromagnet on its back
 An angry whale shitting containers
+An app with no logging
 An Arduino runnning NetBSD
 An army of chaos monkeys, all carrying flamethrowers
 An enormous rack
@@ -138,6 +144,7 @@ An untested restore process
 Angelina Jolie in Hackers
 Angular js
 Animated GIF
+Another Wordpress vulnerability
 Ansible
 Apache 1.2 running as root
 Apache Zookeeper on a 286
@@ -152,6 +159,8 @@ bash
 Batman on acid
 Beating the server into submission with your bare hands
 Being acquired by Oracle
+Being marked CLOSED WONTFIX
+Best Practices
 Best Two out of Three Factor Auth
 Big ball of mud
 Bingo Balls
@@ -183,11 +192,13 @@ Chuck Norris
 Circular imports
 Clippy
 Cloud 2.0
+Cloud-agnostic
 Cloud-based business strategy
 COBOL
 Coffee shop WiFi
 Command line options
 Command-line magic
+Commenting every line of code
 Committing from the bar
 Complex systems usually operate in failure mode
 Conflict minerals
@@ -205,11 +216,13 @@ cowsay
 Cron jobs that edit cron jobs
 Crowdsourced Architecture
 CryptoLocker
+CTRL-C! CTRL-C! CTRL-C!
 Culture
 curl 4chan | sudo sh
 curl | sh -c
 Darkness
 Darth Vader talking dirty
+Date formats other than yyyy-mm-dd
 dd
 DDoS attacks from your fridge
 De-linting source code
@@ -233,6 +246,7 @@ DNS
 Docker
 Dogecoin
 done done
+Downtime
 Dungeons & Dragons
 Dust bunnies
 echo shell_exec("sudo ./smbkill ".escapeshellcmd($_GET['kill'])." 2>&1");
@@ -244,10 +258,12 @@ Entering rm -rf /
 Enterprise Grade Bash scripts
 Erlang
 Erotic fan fiction of Captain Kirk
+Errors which disappear in debug builds
 Ethernet
 Eventual acceptance
 Eventual consistency
 Eventual persistence
+Exchanging childhood memories for 160GB of storage
 EXTERMINATE
 f00d
 Fail early, fail often
@@ -303,6 +319,7 @@ High Availability
 HipChat
 Hitting refresh just one more time
 HTML9 Responsive Boilerstrap JS
+HTTP 418: I'm a teapot
 hunter2
 Hypervisors running hypervisors running hypervisors
 I don't know, I wasn't paying attention but I didn't change anything
@@ -320,6 +337,7 @@ J in HR who needs three 4K monitors
 java
 Jenkins
 jsLinux
+Just plain text
 Kanban
 Kernel panic
 KHAAAAAN!
@@ -330,6 +348,7 @@ Kim Kardashian's iCloud account
 Kubernetes
 Leaky abstractions
 Leap second bug
+Legacy Code that you're terrified of deleting
 Less Than Zero Day
 LevelDB
 LinkedIn
@@ -358,6 +377,7 @@ MOAR USB STICKS
 MongoDB
 More buzzwords than you can shake a scrum at
 MS-DOS
+Multi factor authentication
 Mutation of immutable data
 My dongle
 My password
@@ -497,6 +517,8 @@ Solar
 Solar flares
 Somebody calculating pi on the Exchange server
 Someone being wrong on the internet
+Something said by a NetEng that you didn't understand
+Spaces and tabs in the same file
 Sparkly Devops Princess
 Spot Instances
 Sprint Planning
@@ -521,6 +543,7 @@ Tcl
 Tech Debt Day
 Temporary hotfixes
 Terraform
+Testing in production
 That moment when you realize CTRL-Z cannot save you
 That XKCD comic about sysadmins
 The Ballmer Peak
@@ -539,6 +562,7 @@ The mysql client
 The newbie cooking drugs in the server room
 The next Y2K
 The NSA
+The previous developer
 The Sales & Marketing department
 The server is down
 The tech lead's shitty pet project
@@ -553,9 +577,11 @@ Too many authorization failures
 top
 Tor
 traceroute
+Treating warnings as errors
 Trello board
 Tribal knowledge
 Trolls
+Trusting User Input
 Trying to install MongoDB on AIX 3
 Twitter
 Two Factor Auth
@@ -580,6 +606,7 @@ vim
 VisualBasic DLLs
 Waiting for console.aws.amazon.com
 wat
+Water-scrum-fall
 Wearing protection during peer programing
 Web Scale
 Webhook
@@ -591,6 +618,7 @@ WONTFIX
 Works for me
 Works on my machine!
 Write-only code
+YAML
 Ycombinator
 Year 2038
 Yet another package manager
